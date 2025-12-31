@@ -1,4 +1,4 @@
-## 🐙 Octopus Link IT
+# 🐙 Octopus Link IT
 
 **Octopus Link IT** é uma empresa de tecnologia focada no desenvolvimento de **soluções digitais próprias**.
 
