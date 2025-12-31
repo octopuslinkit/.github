@@ -20,7 +20,7 @@ Nosso trabalho é guiado por:
 
 ---
 
-# 📌 Padrão Oficial de Branches e Commits
+# 📌 Padrão de Branches e Commits
 
 Este documento define o padrão único e obrigatório de **branches** e **commits** do projeto.
 
