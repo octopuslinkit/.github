@@ -1,3 +1,25 @@
+## 🐙 Octopus Link IT
+
+**Octopus Link IT** é uma empresa de tecnologia focada no desenvolvimento de **soluções digitais próprias**.
+
+Assim como um polvo, nossos tentáculos se estendem pela web — **conectando ideias, inovação e tecnologia**.  
+Projetamos, desenvolvemos e evoluímos produtos com foco em **escalabilidade, qualidade e valor a longo prazo**.
+
+Nosso trabalho é guiado por:
+
+- Código limpo e de fácil manutenção
+- Processos e padrões claros
+- Colaboração e melhoria contínua
+- Tecnologia a serviço de necessidades reais de negócio
+
+---
+
+## 📑 Sumário
+
+- [Padrão de Branches e Commits](#-padrão-de-branches-e-commits)
+
+---
+
 # 📌 Padrão Oficial de Branches e Commits
 
 Este documento define o padrão único e obrigatório de **branches** e **commits** do projeto.
