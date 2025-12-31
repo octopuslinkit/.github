@@ -14,7 +14,7 @@ Nosso trabalho é guiado por:
 
 ---
 
-## 📑 Sumário
+# 📑 Sumário
 
 - [Padrão de Branches e Commits](#-padrão-de-branches-e-commits)
 
